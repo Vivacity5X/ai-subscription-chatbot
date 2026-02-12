@@ -6,7 +6,7 @@ print("🚀 GEMINI AI HELPER LOADED")
 
 load_dotenv()
 
-API_KEY = "AIzaSyCE21YnfANyR8DoWOwQ6_GsRHAOlb6yoas"
+API_KEY = ""
 
 genai.configure(api_key=API_KEY)
 
